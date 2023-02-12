@@ -1,3 +1,10 @@
+# Getting Started fake server
+
+### `node server.js`
+
+The purpose of using a fake server is to create a development environment that is isolated from the actual production server. This will allow us to test and debug the application.
+his server will be used to test and simulate data for our project.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
