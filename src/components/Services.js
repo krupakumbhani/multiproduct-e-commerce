@@ -16,7 +16,7 @@ function Services() {
                 <p className="card-text mb-0">Updates on safe shopping in our stores</p>
               </div>
                 <img
-                  src="/assets/img/services_card.webp"
+                  src="/assets/img/services_card.png"
                   alt="..."
                   className=""
                 />
@@ -29,7 +29,7 @@ function Services() {
                 <p className="card-text mb-0">Updates on safe shopping in our stores</p>
               </div>
                 <img
-                  src="/assets/img/services_card.webp"
+                  src="/assets/img/online_payment.png"
                   alt="..."
                   className=""
                 />
@@ -42,7 +42,7 @@ function Services() {
                 <p className="card-text mb-0">Updates on safe shopping in our stores</p>
               </div>
                 <img
-                  src="/assets/img/services_card.webp"
+                  src="/assets/img/delivery1_4x.png"
                   alt="..."
                   className=""
                 />

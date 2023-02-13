@@ -14,7 +14,7 @@ function footer() {
                   <img className="logo_img" src="/assets/img/logo.png" alt="" />
                   <span className="fw_600 text_green p-1">Shopcart</span>
                 </div>
-                <div className="col-lg-12 col-6 col-md-6 mt-md-3 mt-0  text-end text-sm-start p-2">
+                <div className="col-lg-12 col-12 col-md-6 mt-md-3 mt-0   p-2">
                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis ex placeat impedit odio, quod labore. Ullam laborum quisquam magnam eum laudantium veniam omnis!
                 </div>
                 {/* community desktop section start */}

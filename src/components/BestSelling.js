@@ -27,8 +27,8 @@ function BestSelling() {
           className="mySwiper"
         >
           <SwiperSlide className="ml-3">
-            <div className="card w_300 ">
-              <img src="/assets/img/bestsell_card.jpg" className="h_250" alt="..." />
+            <div className="card ">
+              <img src="/assets/img/bestsell_card.png"  alt="..." />
               <img src="/assets/img/sec4_logo1.png" className="img_overlap" alt="..." />
               <div class="card-body bg_grey">
                 <h5 class="card-title me-auto">Staples</h5>
@@ -38,8 +38,8 @@ function BestSelling() {
             </div>
           </SwiperSlide>
           <SwiperSlide className="ml-3">
-            <div className="card w_300 ">
-              <img src="/assets/img/bestsell_card.jpg" className="h_250" alt="..." />
+            <div className="card ">
+              <img src="/assets/img/bestsell_card.png"  alt="..." />
               <img src="/assets/img/sec4_logo1.png" className="img_overlap" alt="..." />
               <div class="card-body bg_grey">
                 <h5 class="card-title me-auto">Staples</h5>
@@ -49,8 +49,8 @@ function BestSelling() {
             </div>
           </SwiperSlide>
           <SwiperSlide className="ml-3">
-            <div className="card w_300 ">
-              <img src="/assets/img/bestsell_card.jpg" className="h_250" alt="..." />
+            <div className="card ">
+              <img src="/assets/img/bestsell_card.png"  alt="..." />
               <img src="/assets/img/sec4_logo1.png" className="img_overlap" alt="..." />
               <div class="card-body bg_grey">
                 <h5 class="card-title me-auto">Staples</h5>
@@ -60,8 +60,8 @@ function BestSelling() {
             </div>
           </SwiperSlide>
           <SwiperSlide className="ml-3">
-            <div className="card w_300 ">
-              <img src="/assets/img/bestsell_card.jpg" className="h_250" alt="..." />
+            <div className="card ">
+              <img src="/assets/img/bestsell_card.png"  alt="..." />
               <img src="/assets/img/sec4_logo1.png" className="img_overlap" alt="..." />
               <div class="card-body bg_grey">
                 <h5 class="card-title me-auto">Staples</h5>
@@ -71,8 +71,8 @@ function BestSelling() {
             </div>
           </SwiperSlide>
           <SwiperSlide className="ml-3">
-            <div className="card w_300 ">
-              <img src="/assets/img/bestsell_card.jpg" className="h_250" alt="..." />
+            <div className="card ">
+              <img src="/assets/img/bestsell_card.png"  alt="..." />
               <img src="/assets/img/sec4_logo1.png" className="img_overlap" alt="..." />
               <div class="card-body bg_grey">
                 <h5 class="card-title me-auto">Staples</h5>
@@ -82,8 +82,8 @@ function BestSelling() {
             </div>
           </SwiperSlide>
           <SwiperSlide className="ml-3">
-            <div className="card w_300 ">
-              <img src="/assets/img/bestsell_card.jpg" className="h_250" alt="..." />
+            <div className="card ">
+              <img src="/assets/img/bestsell_card.png"  alt="..." />
               <img src="/assets/img/sec4_logo1.png" className="img_overlap" alt="..." />
               <div class="card-body bg_grey">
                 <h5 class="card-title me-auto">Staples</h5>
@@ -93,8 +93,8 @@ function BestSelling() {
             </div>
           </SwiperSlide>
           <SwiperSlide className="ml-3">
-            <div className="card w_300 ">
-              <img src="/assets/img/bestsell_card.jpg" className="h_250" alt="..." />
+            <div className="card ">
+              <img src="/assets/img/bestsell_card.png"  alt="..." />
               <img src="/assets/img/sec4_logo1.png" className="img_overlap" alt="..." />
               <div class="card-body bg_grey">
                 <h5 class="card-title me-auto">Staples</h5>

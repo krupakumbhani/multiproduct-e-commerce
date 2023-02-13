@@ -32,7 +32,7 @@ function TrendingProducts() {
           <SwiperSlide className="ml-3">
             <div className="card" >
               <img
-                src="/assets/img/sec7_bg.jpg"
+                src="/assets/img/sec7_bg.png"
                 className=""
                 alt="..."
               />
@@ -50,7 +50,7 @@ function TrendingProducts() {
           <SwiperSlide className="ml-3">
             <div className="card" >
               <img
-                src="/assets/img/sec7_bg.jpg"
+                src="/assets/img/sec7_cloths.png"
                 className=""
                 alt="..."
               />
@@ -68,7 +68,7 @@ function TrendingProducts() {
           <SwiperSlide className="ml-3">
             <div className="card" >
               <img
-                src="/assets/img/sec7_bg.jpg"
+                src="/assets/img/sec7_bg.png"
                 className=""
                 alt="..."
               />
@@ -86,7 +86,7 @@ function TrendingProducts() {
           <SwiperSlide className="ml-3">
             <div className="card" >
               <img
-                src="/assets/img/sec7_bg.jpg"
+                src="/assets/img/sec7_cloths.png"
                 className=""
                 alt="..."
               />

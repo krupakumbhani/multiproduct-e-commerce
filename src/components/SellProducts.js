@@ -20,8 +20,8 @@ export default function SellProducts() {
           breakpoints={{
             0: { slidesPerView: 1 },
             576: { slidesPerView: 1 },
-            768: { slidesPerView: 3 },
-            960: { slidesPerView: 2},
+            768: { slidesPerView: 2 },
+            960: { slidesPerView: 3},
             1200: { slidesPerView: 3 },
             1920: { slidesPerView: 4 },
           }}

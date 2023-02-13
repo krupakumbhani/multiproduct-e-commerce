@@ -32,51 +32,51 @@ export default function TopCategories() {
             className="mySwiper"
           >
             <SwiperSlide className="ml-3" >
-              <div className="card" style={{ width: "12rem" }}>
+              <div className="card" >
                 <h4 className="top_categories_text_on_img">Furniture</h4>
 
                 <img
-                  src="/assets/img/sec2_furniture.jpg"
+                  src="/assets/img/sec2_furniture.png"
                   className="top_categories_bg_img"
                   alt="..."
                 />
               </div>
             </SwiperSlide>
             <SwiperSlide>
-              <div className="card" style={{ width: "12rem" }}>
+              <div className="card" >
                 <h4 className="top_categories_text_on_img">Handbag</h4>
                 <img
-                  src="/assets/img/sec2_handbag.jpg"
+                  src="/assets/img/sec2_handbag.png"
                   className="top_categories_bg_img"
                   alt="..."
                 />
               </div>
             </SwiperSlide>
             <SwiperSlide className="ml-5">
-              <div className="card" style={{ width: "12rem" }}>
+              <div className="card" >
                 <h4 className="top_categories_text_on_img">Travel</h4>
                 <img
-                  src="/assets/img/sec2_travel.jpg"
+                  src="/assets/img/sec2_travel.png"
                   className="top_categories_bg_img"
                   alt="..."
                 />
               </div>
             </SwiperSlide>
             <SwiperSlide>
-              <div className="card" style={{ width: "12rem" }}>
+              <div className="card" >
                 <h4 className="top_categories_text_on_img">Tech</h4>
                 <img
-                  src="/assets/img/sec2_tech.webp"
+                  src="/assets/img/sec2_tech.png"
                   className="top_categories_bg_img"
                   alt="..."
                 />
               </div>
             </SwiperSlide>
             <SwiperSlide>
-              <div className="card" style={{ width: "12rem" }}>
+              <div className="card" >
                 <h4 className="top_categories_text_on_img">Beauty</h4>
                 <img
-                  src="/assets/img/sec2_beauty.webp"
+                  src="/assets/img/sec2_beauty.png"
                   className="top_categories_bg_img"
                   alt="..."
                 />
@@ -85,51 +85,51 @@ export default function TopCategories() {
            
 
             <SwiperSlide>
-              <div className="card" style={{ width: "12rem" }}>
+              <div className="card" >
                 <h4 className="top_categories_text_on_img">Art</h4>
                 <img
-                  src="/assets/img/sec2_art.jpg"
+                  src="/assets/img/sec2_art.png"
                   className="top_categories_bg_img"
                   alt="..."
                 />
               </div>
             </SwiperSlide>
             <SwiperSlide>
-              <div className="card" style={{ width: "12rem" }}>
+              <div className="card" >
                 <h4 className="top_categories_text_on_img">Education</h4>
                 <img
-                  src="/assets/img/sec2_education.jpg"
+                  src="/assets/img/sec2_education.png"
                   className="top_categories_bg_img"
                   alt="..."
                 />
               </div>
             </SwiperSlide>
             <SwiperSlide>
-              <div className="card" style={{ width: "12rem" }}>
-                <h4 className="top_categories_text_on_img">Beauty</h4>
+              <div className="card" >
+                <h4 className="top_categories_text_on_img">fashion</h4>
                 <img
-                  src="/assets/img/sec2_beauty.webp"
+                  src="/assets/img/sec2_fashion.png"
                   className="top_categories_bg_img"
                   alt="..."
                 />
               </div>
             </SwiperSlide>
             <SwiperSlide className="ml-3" >
-              <div className="card" style={{ width: "12rem" }}>
+              <div className="card" >
                 <h4 className="top_categories_text_on_img">Furniture</h4>
 
                 <img
-                  src="/assets/img/sec2_furniture.jpg"
+                  src="/assets/img/sec2_furniture.png"
                   className="top_categories_bg_img"
                   alt="..."
                 />
               </div>
             </SwiperSlide>
             <SwiperSlide>
-              <div className="card" style={{ width: "12rem" }}>
+              <div className="card" >
                 <h4 className="top_categories_text_on_img">Hats</h4>
                 <img
-                  src="/assets/img/sec2_hats.webp"
+                  src="/assets/img/sec2_hats.png"
                   className="top_categories_bg_img"
                   alt="..."
                 />

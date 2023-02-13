@@ -71,8 +71,6 @@ function AllDeals() {
           <div className="row gy-3 ">
             {filter.map((i) => (
               <div className="col-xxl-3 col-xl-4 col-md-6 col-12 ">
-              
-
                 <div className="card TodaysBestDeals_card m-auto" >
               <img
                 src="/assets/img/sec3_homepod.jpg"

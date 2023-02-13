@@ -62,22 +62,33 @@ function NavScroll() {
               </a>
             </li>
             <li className="nav-item me-2">
-              <a className="nav-link text_dark" href="/">Delivery</a>
+              <a className="nav-link text_dark" href="/">
+                Delivery
+              </a>
             </li>
           </ul>
-          <div className="d-flex align-items-center">
+          <div className="d-flex align-items-md-center align-items-start flex-column flex-md-row">
             <div className="input-group">
-              <input type="text" className="form-control" placeholder="Search Products" aria-label="Search Products" aria-describedby="basic-addon2" />
-              <span className="input-group-text" id="basic-addon2"><img className="w_20" src="/assets/img/loupe.png" alt="" /></span>
+              <input
+                type="text"
+                className="form-control"
+                placeholder="Search Products"
+                aria-label="Search Products"
+                aria-describedby="basic-addon2"
+              />
+              <span className="input-group-text" id="basic-addon2">
+                <img className="w_20" src="/assets/img/loupe.png" alt="" />
+              </span>
             </div>
-
-            <div className="ms-5 d-flex" role="button">
-              <img src="/assets/img/user.png" className="nav_icon" alt="" />
-              <span>Account</span>
-            </div>
-            <div className="ms-5 d-flex" role="button">
-              <img src="/assets/img/cart.png" className="nav_icon" alt="" />
-              <span>Cart</span>
+            <div className="d-flex align-items-center mt-4 mt-md-0">
+              <div className="ms-md-5 d-flex" role="button">
+                <img src="/assets/img/user.png" className="nav_icon" alt="" />
+                <span>Account</span>
+              </div>
+              <div className="ms-md-5 ms-3 d-flex" role="button">
+                <img src="/assets/img/cart.png" className="nav_icon" alt="" />
+                <span>Cart</span>
+              </div>
             </div>
           </div>
         </div>
